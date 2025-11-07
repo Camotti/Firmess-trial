@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jZwdP5Sn1T237pUY4tHLIeI+/6yjR1pQVjE/51OiZY/ZnPrAu7qGTnD+umyCvdS6NeaRpgjDc5KhLHyX5/uEog==",
+  "dgSpecHash": "H4pF/N010oQ=",
   "success": true,
   "projectFilePath": "/home/Coder/Escritorio/github/Firmess-trial/firmness.Tests/firmness.Tests.csproj",
   "expectedPackageFiles": [
@@ -247,8 +247,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "firmness depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved instead.",
+      "projectPath": "/home/Coder/Escritorio/github/Firmess-trial/firmness.Tests/firmness.Tests.csproj",
       "warningLevel": 1,
-      "message": "firmness depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved.",
+      "filePath": "/home/Coder/Escritorio/github/Firmess-trial/firmness.Tests/firmness.Tests.csproj",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net8.0"
@@ -257,8 +259,10 @@
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "firmness.Tests depends on xunit.runner.visualstudio (>= 2.6.3) but xunit.runner.visualstudio 2.6.3 was not found. xunit.runner.visualstudio 2.8.0 was resolved instead.",
+      "projectPath": "/home/Coder/Escritorio/github/Firmess-trial/firmness.Tests/firmness.Tests.csproj",
       "warningLevel": 1,
-      "message": "firmness.Tests depends on xunit.runner.visualstudio (>= 2.6.3) but xunit.runner.visualstudio 2.6.3 was not found. An approximate best match of xunit.runner.visualstudio 2.8.0 was resolved.",
+      "filePath": "/home/Coder/Escritorio/github/Firmess-trial/firmness.Tests/firmness.Tests.csproj",
       "libraryId": "xunit.runner.visualstudio",
       "targetGraphs": [
         "net8.0"

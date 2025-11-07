@@ -12956,7 +12956,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "firmness depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved.",
+      "message": "firmness depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.3) but Npgsql.EntityFrameworkCore.PostgreSQL 8.0.3 was not found. Npgsql.EntityFrameworkCore.PostgreSQL 8.0.4 was resolved instead.",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net8.0"
@@ -12966,7 +12966,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "firmness.Tests depends on xunit.runner.visualstudio (>= 2.6.3) but xunit.runner.visualstudio 2.6.3 was not found. An approximate best match of xunit.runner.visualstudio 2.8.0 was resolved.",
+      "message": "firmness.Tests depends on xunit.runner.visualstudio (>= 2.6.3) but xunit.runner.visualstudio 2.6.3 was not found. xunit.runner.visualstudio 2.8.0 was resolved instead.",
       "libraryId": "xunit.runner.visualstudio",
       "targetGraphs": [
         "net8.0"

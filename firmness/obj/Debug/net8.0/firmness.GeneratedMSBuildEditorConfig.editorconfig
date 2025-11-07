@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = firmness
+build_property.RootNamespace = firmness
+build_property.ProjectDir = /home/Coder/Escritorio/github/Firmess-trial/firmness/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/Coder/Escritorio/github/Firmess-trial/firmness
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Dashboard/DashboardIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkL0Rhc2hib2FyZEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Excel/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhjZWwvSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Products/IndexProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvSW5kZXhQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Sales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Sales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Sales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Sales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/SalesDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNEZXRhaWxzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/SalesDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNEZXRhaWxzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/SalesDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNEZXRhaWxzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/SalesDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNEZXRhaWxzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/SalesDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNEZXRhaWxzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/UploadExcel/UploadExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBsb2FkRXhjZWwvVXBsb2FkRXhjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/Coder/Escritorio/github/Firmess-trial/firmness/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d7mh7a6hkf

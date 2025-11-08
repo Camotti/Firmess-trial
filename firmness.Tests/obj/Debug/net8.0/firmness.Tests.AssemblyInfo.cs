@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("firmness.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8102d85d223363bee5aec14c96a3bed40b66ae1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f228ec61345cd397924263c12685ab62a1d0eb61")]
 [assembly: System.Reflection.AssemblyProductAttribute("firmness.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("firmness.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
